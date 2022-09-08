@@ -1,0 +1,38 @@
+{
+    "image": "ipfs://None/493",
+    "tokenId": 493,
+    "name": "test #493/1000",
+    "description": "test",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Bottom lid",
+            "value": "High High #20"
+        },
+        {
+            "trait_type": "Eye color",
+            "value": "Cyan#1"
+        },
+        {
+            "trait_type": "Eyeball",
+            "value": "Red#50"
+        },
+        {
+            "trait_type": "Iris",
+            "value": "Large#20"
+        },
+        {
+            "trait_type": "Shine",
+            "value": "Shapes#100"
+        },
+        {
+            "trait_type": "Top lid",
+            "value": "Middle#50"
+        }
+    ],
+    "edition_total": "1000",
+    "royalty_amount": 10
+}
